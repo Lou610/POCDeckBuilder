@@ -1,0 +1,16 @@
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.csproj.GenerateResource.cache
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.AssemblyInfoInputs.cache
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.AssemblyInfo.cs
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.csproj.CoreCompileInputs.cache
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\bin\Debug\net8.0-windows\CardShuffle.exe
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\bin\Debug\net8.0-windows\CardShuffle.deps.json
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\bin\Debug\net8.0-windows\CardShuffle.runtimeconfig.json
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\bin\Debug\net8.0-windows\CardShuffle.dll
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\bin\Debug\net8.0-windows\CardShuffle.pdb
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.dll
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\refint\CardShuffle.dll
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.pdb
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.genruntimeconfig.cache
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\ref\CardShuffle.dll
+C:\Users\LouGroenewald\source\repos\CardShuffle\CardShuffle\obj\Debug\net8.0-windows\CardShuffle.MyForm.resources
